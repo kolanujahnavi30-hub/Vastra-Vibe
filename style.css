@@ -582,7 +582,7 @@ ul a{
      font: 500;
 
 }
-.kids-hero-section{
+ .kids-hero-section{
     margin-top: 80px;
     background-image: url("kids-hero-section.png");
     background-size: contain;
@@ -683,3 +683,4 @@ ul a{
         padding: 0 15px;
     }
 }
+
